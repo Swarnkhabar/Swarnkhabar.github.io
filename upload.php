@@ -1,5 +1,5 @@
 <?php
-$host = "mysql13.000webhost.com";
+$host = "localhost";
 $user = "id1027806_rajaram";
 $pass = "rajaram";
 
