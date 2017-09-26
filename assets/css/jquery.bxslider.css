@@ -53,5 +53,5 @@
 .bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-controls-auto{right:0; width:35px}
 
 /* IMAGE CAPTIONS */
-.bx-wrapper .bx-caption{position:absolute; bottom:0; left:0; background:#666\9; background:rgba(80,80,80,0.75); width:100%}
+.bx-wrapper .bx-caption{position:absolute; top:0; left:0; background:#666\9; background:rgba(80,80,80,0.75); width:100%}
 .bx-wrapper .bx-caption span{color:#FFF; display:block; font-family:Arial; font-size:16px; padding:20px}
